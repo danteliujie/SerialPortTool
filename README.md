@@ -1,6 +1,6 @@
 "# SerialPortTool" 
 
-Create this as need a codebase to support different extend feature set,
+Create this as need a codebase to support extended feature set.
 
 Thanks a lot for the following projects：
 - https://github.com/TheSacrament/SdComPortViewer
